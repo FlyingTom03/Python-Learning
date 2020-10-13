@@ -1,0 +1,11 @@
+-----------------------------------------------------
+|                Random Number Generator            |
+|                     MAIN MENU                     |
+-----------------------------------------------------
+            |  Options:                  |
+            |                            |
+            |  1. Code Breaker (game)    |
+            |  2. Dice Roller (6)        |
+            |  3. Random 1 digit number  |
+            |  4. Random 2 digit number  |
+            |  5. Random 3 digit number  |
